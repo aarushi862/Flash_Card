@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+students.json
+*.log
+.DS_Store
